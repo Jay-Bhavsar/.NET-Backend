@@ -1,0 +1,10 @@
+2024-01-31 10:08:59.8518 | DESKTOP-9VG6H90 | 7236 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-31 10:09:00.9488 | DESKTOP-9VG6H90 | 7236 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-31 10:09:04.8431 | DESKTOP-9VG6H90 | 7236 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-31 10:09:04.8727 | DESKTOP-9VG6H90 | 7236 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-31 10:21:36.5621 | DESKTOP-9VG6H90 | 12556 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-31 10:21:36.9348 | DESKTOP-9VG6H90 | 12556 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-31 12:10:07.1498 | DESKTOP-9VG6H90 | 24136 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-31 12:10:07.1825 | DESKTOP-9VG6H90 | 24136 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-31 16:25:56.2569 | DESKTOP-9VG6H90 | 14596 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-31 16:25:56.3126 | DESKTOP-9VG6H90 | 14596 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache

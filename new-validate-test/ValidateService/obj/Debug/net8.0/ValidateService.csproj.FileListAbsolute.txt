@@ -1,0 +1,11 @@
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\bin\Debug\net8.0\ValidateService.deps.json
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\bin\Debug\net8.0\ValidateService.dll
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\bin\Debug\net8.0\ValidateService.pdb
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\obj\Debug\net8.0\ValidateService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\obj\Debug\net8.0\ValidateService.AssemblyInfoInputs.cache
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\obj\Debug\net8.0\ValidateService.AssemblyInfo.cs
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\obj\Debug\net8.0\ValidateService.csproj.CoreCompileInputs.cache
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\obj\Debug\net8.0\ValidateService.dll
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\obj\Debug\net8.0\refint\ValidateService.dll
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\obj\Debug\net8.0\ValidateService.pdb
+C:\Users\JayJigneshBhavsar\source\repos\ENTITYAPP\ENTITYAPP\new-validate-test\ValidateService\obj\Debug\net8.0\ref\ValidateService.dll

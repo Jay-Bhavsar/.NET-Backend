@@ -1,0 +1,37 @@
+2024-01-30 10:52:36.3660 | DESKTOP-9VG6H90 | 23592 | iisexpress | Info | LoggerService.LoggerManager | We are trying to use cache here
+2024-01-30 10:55:26.5403 | DESKTOP-9VG6H90 | 23532 | iisexpress | Info | LoggerService.LoggerManager | We are trying to use cache here
+2024-01-30 10:55:27.5831 | DESKTOP-9VG6H90 | 23532 | iisexpress | Info | LoggerService.LoggerManager | fetching from database
+2024-01-30 11:14:24.1431 | DESKTOP-9VG6H90 | 27316 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch the list of employees from cache
+2024-01-30 11:14:24.7555 | DESKTOP-9VG6H90 | 27316 | iisexpress | Info | LoggerService.LoggerManager | employees not found in cache
+2024-01-30 11:20:53.9176 | DESKTOP-9VG6H90 | 23396 | iisexpress | Info | LoggerService.LoggerManager | I want to try cache
+2024-01-30 11:28:57.0238 | DESKTOP-9VG6H90 | 7872 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-30 11:30:52.9724 | DESKTOP-9VG6H90 | 7872 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-30 11:30:54.4299 | DESKTOP-9VG6H90 | 7872 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 11:32:12.9692 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 11:32:13.6135 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-30 11:32:49.4458 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 11:32:49.4791 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:43:02.3834 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:43:02.3960 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-30 12:43:05.1222 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:43:05.1343 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:43:06.6802 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:43:06.6802 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:43:09.6162 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:43:09.6204 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:43:25.0420 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:43:25.0645 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:43:36.4597 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:43:36.5067 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:43:44.6347 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:43:44.6556 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:44:37.7025 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:44:37.7177 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:44:41.3729 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:44:41.3729 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-01-30 12:47:10.3965 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 12:47:10.4110 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-30 14:06:50.2485 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 14:06:50.2749 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-01-30 14:07:12.3058 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-01-30 14:07:12.3214 | DESKTOP-9VG6H90 | 2628 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache

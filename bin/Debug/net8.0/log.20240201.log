@@ -1,0 +1,46 @@
+2024-02-01 09:44:36.8900 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 09:44:36.9767 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 09:44:39.8694 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 09:44:39.8694 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 09:44:53.6255 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 09:44:53.6255 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 09:44:57.0934 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 09:44:57.0934 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 09:45:00.5092 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 09:45:00.5092 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 09:45:06.6810 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 09:45:06.6810 | DESKTOP-9VG6H90 | 30180 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 11:57:44.1935 | DESKTOP-9VG6H90 | 19796 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 11:57:44.5644 | DESKTOP-9VG6H90 | 19796 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 11:58:34.2020 | DESKTOP-9VG6H90 | 19796 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 11:58:34.2200 | DESKTOP-9VG6H90 | 19796 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 11:58:51.4302 | DESKTOP-9VG6H90 | 19796 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 11:58:51.4302 | DESKTOP-9VG6H90 | 19796 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 12:01:12.3964 | DESKTOP-9VG6H90 | 19796 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 12:01:12.4048 | DESKTOP-9VG6H90 | 19796 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 12:02:19.1551 | DESKTOP-9VG6H90 | 17964 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 12:02:19.5169 | DESKTOP-9VG6H90 | 17964 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 12:05:44.3086 | DESKTOP-9VG6H90 | 5372 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 12:05:45.4557 | DESKTOP-9VG6H90 | 5372 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 12:10:04.5374 | DESKTOP-9VG6H90 | 14180 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 12:10:05.2138 | DESKTOP-9VG6H90 | 14180 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 12:10:36.6249 | DESKTOP-9VG6H90 | 14180 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 12:10:36.6249 | DESKTOP-9VG6H90 | 14180 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 12:22:50.8510 | DESKTOP-9VG6H90 | 27628 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 12:22:51.5508 | DESKTOP-9VG6H90 | 27628 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 14:34:26.8382 | DESKTOP-9VG6H90 | 18172 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 14:34:26.8658 | DESKTOP-9VG6H90 | 18172 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 14:59:22.7968 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | Action MethodENTITYAPP.Controllers.EmployeeController.AddEmployee (ENTITYAPP) executing at 01-02-2024
+2024-02-01 14:59:28.3944 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | Action MethodENTITYAPP.Controllers.EmployeeController.AddEmployee (ENTITYAPP) executing at 01-02-2024
+2024-02-01 15:18:41.1065 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 15:18:41.2389 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 15:18:50.8919 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 15:18:50.9116 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 15:30:47.1432 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 15:30:47.2857 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 15:30:49.2757 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 15:30:49.2757 | DESKTOP-9VG6H90 | 2232 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache
+2024-02-01 16:33:48.8838 | DESKTOP-9VG6H90 | 22912 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 16:33:49.6093 | DESKTOP-9VG6H90 | 22912 | iisexpress | Info | LoggerService.LoggerManager | employee not found in cache
+2024-02-01 16:34:02.0175 | DESKTOP-9VG6H90 | 22912 | iisexpress | Info | LoggerService.LoggerManager | Trying to fetch from cache
+2024-02-01 16:34:02.0557 | DESKTOP-9VG6H90 | 22912 | iisexpress | Info | LoggerService.LoggerManager | employee found in cache

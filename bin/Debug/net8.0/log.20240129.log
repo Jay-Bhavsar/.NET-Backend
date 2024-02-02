@@ -1,0 +1,8 @@
+2024-01-29 09:32:30.2410 | DESKTOP-9VG6H90 | 39896 | iisexpress | Info | LoggerService.LoggerManager | Here is info message from the controller.
+2024-01-29 09:32:30.3119 | DESKTOP-9VG6H90 | 39896 | iisexpress | Debug | LoggerService.LoggerManager | Here is debug message from the controller.
+2024-01-29 09:32:30.3119 | DESKTOP-9VG6H90 | 39896 | iisexpress | Warn | LoggerService.LoggerManager | Here is warn message from the controller.
+2024-01-29 09:32:30.3119 | DESKTOP-9VG6H90 | 39896 | iisexpress | Error | LoggerService.LoggerManager | Here is error message from the controller.
+2024-01-29 14:12:35.6050 | DESKTOP-9VG6H90 | 39896 | iisexpress | Info | LoggerService.LoggerManager | Here is info message from the controller.
+2024-01-29 14:12:35.6050 | DESKTOP-9VG6H90 | 39896 | iisexpress | Debug | LoggerService.LoggerManager | Here is debug message from the controller.
+2024-01-29 14:12:35.6050 | DESKTOP-9VG6H90 | 39896 | iisexpress | Warn | LoggerService.LoggerManager | Here is warn message from the controller.
+2024-01-29 14:12:35.6050 | DESKTOP-9VG6H90 | 39896 | iisexpress | Error | LoggerService.LoggerManager | Here is error message from the controller.
